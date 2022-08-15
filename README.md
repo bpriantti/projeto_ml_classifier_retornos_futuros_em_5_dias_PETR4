@@ -29,5 +29,5 @@ __Frameworks Utilizados:__
 - Scikit learn: https://scikit-learn.org/stable/index.html
 - Statsmodels: https://www.statsmodels.org/stable/index.html
 
-__ Project Steps:__
+__Project Steps:__
 
